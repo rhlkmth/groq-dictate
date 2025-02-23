@@ -1,5 +1,5 @@
-streamlit
-sounddevice
+streamlit==1.29.0 
+sounddevice==0.4.6
 wave
 pyperclip
 groq-python
