@@ -9,7 +9,9 @@ import pyperclip
 from groq import Groq
 
 # Streamlit UI setup
-st.title("Voice Dictation App using Groq API")
+
+st.title("Minimal Streamlit App Test")
+st.write("Deployment Test Successful!")
 
 # API Key Input
 groq_api_key = st.text_input("Enter Groq API Key:", type="password")
